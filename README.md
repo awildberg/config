@@ -1,3 +1,3 @@
 # config
 
-CONFIG includes configure files from Arch and Lubuntu
+CONFIG includes configure files from Arch (config) and ArchCraft (CONFIGS.tar.gz)
