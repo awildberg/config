@@ -33,3 +33,4 @@ unless defined? ETC_IRBRC_LOADED
 
   ETC_IRBRC_LOADED=true
 end
+
